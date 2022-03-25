@@ -43,7 +43,7 @@ module.exports = {
   protectedRoutes: [
     '/🌞 Private folder/u-need-a-password', 
     '/🥟 Some test files/Protected route',
-    '/Documents'
+    '/🎃 Documents'
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
