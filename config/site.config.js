@@ -44,7 +44,7 @@ module.exports = {
     '/🌞 Private folder/u-need-a-password', 
     '/🥟 Some test files/Protected route',
     '/🔐 u_Need_a_PassWord',
-    '/🎉 Hexo',
+    '/🎉 Hexo_Need_PassWord',
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
