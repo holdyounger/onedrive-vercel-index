@@ -36,7 +36,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<img src="https://img.shields.io/badge/BUILD%20WITH-%E2%9D%A4-pink"/>Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
+    '<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" style="height: 50px;display: block;margin: 0px auto 30px;zoom: 50%;"><img src="https://forthebadge.com/images/featured/featured-oooo-kill-em.svg" style="height: 50px;display: block;zoom: 50%;margin: 0px auto 30px;"><img src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg" style="height: 50px;display: block;margin: 0px auto 30px;zoom: 50%;"><img src="https://forthebadge.com/images/featured/featured-compatibility-betamax.svg" style="height: 50px;display: block;margin: 0px auto 30px;zoom: 50%;">Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by mingming.shi.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
